@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Kamil</h1>
+<h1>Hi, I'm Kamil 👋</h1>
 <h3>Software engineering student from Poland!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avsterx9&label=Profile%20views&color=0e75b6&style=flat" alt="avsterx9" /> </p>
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kchrobok.contact@gmail.com**
 
-- 📄 Know about my experiences [I am a software engineering student, at this point I am looking for my first job in the IT industry, where I could improve my programming skills and gain experience](I am a software engineering student, at this point I am looking for my first job in the IT industry, where I could improve my programming skills and gain experience)
+- 📄 Know about my experiences - **I am a software engineering student, at this point I am looking for my first job in the IT industry, where I could improve my programming skills and gain experience](I am a software engineering student, at this point I am looking for my first job in the IT industry, where I could improve my programming skills and gain experience**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,8 +47,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avsterx9&show_icons=true&locale=en&layout=compact" alt="avsterx9" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=avsterx9&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" alt="avsterx9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avsterx9&show_icons=true&locale=en&layout=compact%theme=dark" alt="avsterx9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=avsterx9&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true" alt="avsterx9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avsterx9&show_icons=true&locale=en" alt="avsterx9" /></p>
 
