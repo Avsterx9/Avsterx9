@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **my degree**
 
-- 🌱 I’m currently learning **Spring boot, c# and angular!**
+- 🌱 I’m currently learning **everything connected to software development (Mostly SpringBoot, Angular and c#)**
 
 - 📫 How to reach me **kchrobok.contact@gmail.com**
 
-- 📄 Know about my experiences - **I am a software engineering student, at this point I am looking for my first job in the IT industry, where I could improve my programming skills and gain experience](I am a software engineering student, at this point I am looking for my first job in the IT industry, where I could improve my programming skills and gain experience**
+- 📄 Know about my experiences - **I am a software engineering student, at this point I am looking for my first job in the IT industry, where I could improve my programming skills and gain experience**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
