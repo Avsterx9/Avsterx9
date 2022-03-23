@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">An IT student from Poland!</h3>
+<h1>Hi 👋, I'm Kamil</h1>
+<h3>Software engineering student from Poland!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avsterx9&label=Profile%20views&color=0e75b6&style=flat" alt="avsterx9" /> </p>
 
@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Spring boot, c# and angular!**
 
 - 📫 How to reach me **kchrobok.contact@gmail.com**
+
+- 📄 Know about my experiences [I am a software engineering student, at this point I am looking for my first job in the IT industry, where I could improve my programming skills and gain experience](I am a software engineering student, at this point I am looking for my first job in the IT industry, where I could improve my programming skills and gain experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +37,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Graphic Design</h3>
