@@ -12,7 +12,6 @@
 - 📄 Know about my experiences [I am a software engineering student, at this point I am looking for my first job in the IT industry, where I could improve my programming skills and gain experience](I am a software engineering student, at this point I am looking for my first job in the IT industry, where I could improve my programming skills and gain experience)
 
 <h3 align="left">Connect with me:</h3>
-### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/kamil-chrobok-61a107234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamil-chrobok-61a107234" height="30" width="40" /></a>
 </p>
@@ -49,6 +48,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avsterx9&show_icons=true&locale=en&layout=compact" alt="avsterx9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=avsterx9&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" alt="avsterx9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avsterx9&show_icons=true&locale=en" alt="avsterx9" /></p>
 
