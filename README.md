@@ -47,7 +47,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avsterx9&show_icons=true&locale=en&layout=compact&theme=dark" alt="avsterx9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avsterx9&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="avsterx9" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=avsterx9&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true" alt="avsterx9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avsterx9&show_icons=true&locale=en" alt="avsterx9" /></p>
