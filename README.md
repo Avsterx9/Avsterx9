@@ -46,6 +46,4 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avsterx9&show_icons=true&locale=en&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&hide_border=true" alt="avsterx9" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avsterx9&show_icons=true&locale=en&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true" alt="avsterx9" /></p>
