@@ -1,11 +1,10 @@
 <h1>Hi, I'm Kamil 👋</h1>
-<h3>Software engineering student from Poland!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avsterx9&label=Profile%20views&color=0e75b6&style=flat" alt="avsterx9" /> </p>
 
-- 🔭 I’m currently working on **my engineer Thesis**
+- 🔭 I am currently working on an application that aims to facilitate and automate work for a photography studio.
 
-- 🌱 I’m currently working with **Entity Framework, .NET and Angular**
+- 🌱 I’m currently working with **C#, Entity Framework, .NET, Angular, SQL, Azure**
 
 - 📫 How to reach me **kchrobok.contact@gmail.com**
 
